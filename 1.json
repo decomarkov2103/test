@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "5540dce1-a05e-4af8-9cb1-67d00bf731b0",
-		"name": "Business Messaging API",
+		"name": "Business Messaging API<img>",
 		"description": "A Postman collection of CM's Business Messaging API.\n\n\nOfficial API documentation: https://docs.cmtelecom.com/en/api/business-messaging-api/1.0/index/\n",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
